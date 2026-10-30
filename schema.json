@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "VideoGame",
+      "name": "Vex 3 Xmas",
+      "alternateName": [
+        "Vex 3 Xmas Unblocked",
+        "vex-3-xmas",
+        "vex-3-xmas unblocked",
+        "Play Vex 3 Xmas",
+        "Vex 3 Christmas Edition"
+      ],
+      "url": "https://vex-3-xmas.github.io/",
+      "image": "https://vex-3-xmas.github.io/img/vex-3-xmas.png",
+      "description": "Play Vex 3 Xmas unblocked online for free! Experience vex-3-xmas with festive holiday obstacles, tricky traps, snowy platforms, and parkour challenges. Enjoy vex-3-xmas unblocked at school with no download.",
+      "genre": [
+        "Platformer",
+        "Action",
+        "Parkour",
+        "Skill",
+        "Holiday",
+        "Arcade"
+      ],
+      "gamePlatform": [
+        "Web Browser",
+        "HTML5"
+      ],
+      "applicationCategory": "Game",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is vex-3-xmas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vex 3 Xmas is the special festive winter holiday edition of the legendary stickman parkour platformer Vex 3. Players leap across snowy platforms, dodge spinning candy-cane saws, slide beneath icy spikes, and race against the clock to conquer challenging acts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to play vex-3-xmas unblocked at school or work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can play vex-3-xmas unblocked completely free directly on vex-3-xmas.github.io. It runs in any web browser without downloads, flash player, or admin rights."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the controls in Vex 3 Xmas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the Arrow keys or WASD keys: W or Up Arrow to jump/wall-jump, A/D or Left/Right Arrow to run, and S or Down Arrow to crouch, slide, or enter act portals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between Vex 3 and Vex 3 Xmas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vex 3 Xmas features a festive holiday winter theme with snow-capped obstacles, festive Christmas decor, holiday hats, and specially tuned level hazards while keeping the beloved precision parkour gameplay."
+          }
+        }
+      ]
+    }
+  ]
+}

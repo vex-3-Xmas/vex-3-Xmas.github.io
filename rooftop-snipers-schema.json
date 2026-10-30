@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "VideoGame",
+      "name": "Rooftop Snipers",
+      "alternateName": [
+        "Rooftop Snipers Unblocked",
+        "Play Rooftop Snipers"
+      ],
+      "url": "https://playrooftopsnipers.github.io/",
+      "image": "https://playrooftopsnipers.github.io/img/rooftop-snipers.png",
+      "description": "Rooftop Snipers is a chaotic, physics-based two-player sniper duel created by Michael Carriere. Jump, dodge, and snipe opponents off rooftop arenas to win 5 rounds.",
+      "genre": [
+        "Action",
+        "Shooting",
+        "2 Player",
+        "Ragdoll Physics",
+        "Arcade"
+      ],
+      "gamePlatform": [
+        "Web Browser",
+        "HTML5"
+      ],
+      "applicationCategory": "Game",
+      "operatingSystem": "Any",
+      "author": {
+        "@type": "Person",
+        "name": "Michael Carriere"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Rooftop Snipers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rooftop Snipers is a popular two-button ragdoll sniper game where two players stand on a building rooftop and attempt to shoot each other off the edge using various weapons and unpredictable physics."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I play Rooftop Snipers unblocked at school or work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! On playrooftopsnipers.github.io, you can play Rooftop Snipers unblocked directly in your web browser with no firewall restrictions, no downloads, and no plugins required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you control players in Rooftop Snipers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Player 1 uses 'W' to jump/flip and 'E' to aim and shoot. Player 2 uses 'I' to jump/flip and 'O' to aim and shoot. Holding the jump key triggers a backward flip, while holding the shoot key raises the weapon arm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Rooftop Snipers free to play?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Rooftop Snipers is 100% free to play on desktop, Chromebook, and laptop devices with zero installation."
+          }
+        }
+      ]
+    }
+  ]
+}
